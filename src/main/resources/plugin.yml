@@ -1,0 +1,4 @@
+name: ProtocolLIbExtension
+version: '${project.version}'
+main: io.paper.extension.Main
+api-version: 1.19
